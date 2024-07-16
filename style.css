@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+    background-color: #212121;
+}
+
+.btn {
+    padding: 13px 40px;
+    border: none;
+    font-size: 20px;
+    background-color: #e28936;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
